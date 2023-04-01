@@ -40,7 +40,7 @@
         android:requestLegacyExternalStorage="true">
 
 
-<!--        TODO add launchActivity-->
+<!-- Modified Codes -->
         <activity android:name=".ui.main.LaunchActivity"
             android:theme="@style/AppTheme.Launcher"
             android:exported="true">
