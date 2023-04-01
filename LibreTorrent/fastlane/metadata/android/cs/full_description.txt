@@ -1,0 +1,19 @@
+* Licencováno jako GPLv3+. Používejte, zobrazujte, měňte a sdílejte se všemi.
+* BitTorrent 2.0 and WebTorrent support
+* Vybrat jaké soubory stáhnout.
+* Přesouvat soubory při stahování.
+* Automaticky přesunout stažené soubory do jiné složky nebo externího disku.
+* Streamovat soubory pomocí sekvenčního stahování.
+* Android TV.
+* Moderní design, tmavé a černé barevné schéma a rozhraní pro tablety.
+* Přizpůsobitelné nastavení sítě, baterie, uživ. rozhraní atd...
+* 35+ překladů.
+* Plánování.
+* Automatické stahování, zahrnuje Atom/správce RSS.
+* Vytváření torrentů s velkými soubory/velkým množstvím souborů.
+* HTTP/S a odkazy magnet.
+* DHT, PeX, šifrování, LSD, UPnP, NAT*PMP, µTP.
+* Filtrování IP adres (eMule dat a PeerGuardian).
+* Podpora proxy pro trackery a peery.
+* Založen na libtorrent4j.
+* A více.
