@@ -18,6 +18,7 @@ The Android application we have selected from Google Playstore is: <b> LibreTorr
 ## Pre-requisites
 * Android Device, version 7.0 and above (≥ API level 24)
 * Android Studio
+* Android Debug Bridge (ADB)
 
 The Original LibreTorrent app can be found here [LibreTorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent&hl=en) on Google Playstore.
 
