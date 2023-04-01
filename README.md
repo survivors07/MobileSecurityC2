@@ -5,7 +5,7 @@ ICT22Ø7 Mōbile Security Cōursework 2. Tweaking an Android app to improve its 
 
 <div>
 <h1> Background </h1>
-We are from team Survivors. In this project we will be refining an Android application to enhance its security features. <br />
+We are from Team <b>Survivors</b>. In this project we will be refining an Android application to enhance its security features. <br />
 <br />
 The scope of this project includes: <br />
 1. Reverse engineering an Android application. <br />
