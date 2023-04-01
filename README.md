@@ -26,7 +26,7 @@ The Original LibreTorrent app can be found here [LibreTorrent](https://play.goog
 > File > New > Import Project...
 2. Build the application
 > Make Project or Ctrl + F9
-3. Upon successful Build, geenrate a signed APK
+3. Upon successful Build, generate a signed APK
 > Build > Generate Signed Bundle or APK > APK > Define keystore > Generate
 4. Install the generated apk file on either emulator (x86) or Android Devices (ARM)
 > adb install <apk_file>
